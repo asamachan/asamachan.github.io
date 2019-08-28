@@ -1,1 +1,0 @@
-# asamachan.github.io
