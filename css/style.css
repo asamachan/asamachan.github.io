@@ -73,6 +73,14 @@ header {
     width: 100%;
 }
 
+.navbar-brand { 
+    position: relative; 
+    /* background: url(../images/logo_name.png);  */
+    width: 150px; 
+    left: 15px; 
+    background-size: contain; 
+} 
+
 .toggle,
 [id^=drop] {
 	display: none;
