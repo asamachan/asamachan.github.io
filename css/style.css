@@ -746,27 +746,23 @@ span.entry-date {
 /*-- Popular trips --*/
 
 .special-info{
-	background: url(../images/blog.jpg) no-repeat center;
+	background: url(http://5b0988e595225.cdn.sohucs.com/images/20190808/fbcc801996f3457c9e6e5c7e68a450f3.JPG) no-repeat center;
     background-size: cover;
     position: relative;
 }
 .special-info1{
-	background: url(../images/blog1.jpg) no-repeat center;
+	background: url(http://ww1.sinaimg.cn/large/6b2f6355ly1g70lq7y3k4j2069069746.jpg) no-repeat center;
     background-size: cover;
     position: relative;
 }
 .special-info2{
-	background: url(../images/blog2.jpg) no-repeat center;
+	background: url(http://ww1.sinaimg.cn/large/6b2f6355ly1g70lvjvnb6j207s05ut8l.jpg) no-repeat center;
     background-size: cover;
     position: relative;
 }
-.special-info2{
-	background: url(../images/blog3.jpg) no-repeat center;
-    background-size: cover;
-    position: relative;
-}
+
 .special-info3{
-	background: url(../images/blog4.jpg) no-repeat center;
+	background: url(https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=ecd42aa462600c33f079d9ce224d5134/0dd7912397dda1442a838502bbb7d0a20df486fc.jpg) no-repeat center;
     background-size: cover;
     position: relative;
 }
